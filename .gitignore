@@ -7,3 +7,4 @@ ApplicationTest/obj/Debug/ApplicationTest.csprojAssemblyReference.cache
 .vs/ApplicationTest/v16/Server/sqlite3/db.lock
 ApplicationTest/obj/Debug/ApplicationTest.csprojAssemblyReference.cache
 ApplicationTest/obj/Debug/ApplicationTest.csprojAssemblyReference.cache
+*.cache
