@@ -16,5 +16,10 @@ namespace ApplicationTest
         {
             InitializeComponent();
         }
+
+        private void DMButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("HELLO WORLD !!");
+        }
     }
 }
