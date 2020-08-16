@@ -1,0 +1,10 @@
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\bin\Debug\ApplicationTest.exe.config
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\bin\Debug\ApplicationTest.exe
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\bin\Debug\ApplicationTest.pdb
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\obj\Debug\ApplicationTest.csprojAssemblyReference.cache
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\obj\Debug\ApplicationTest.MainForm.resources
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\obj\Debug\ApplicationTest.Properties.Resources.resources
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\obj\Debug\ApplicationTest.SecondForm.resources
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\obj\Debug\ApplicationTest.csproj.GenerateResource.cache
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\obj\Debug\ApplicationTest.exe
+C:\Users\w_ara\Documents\GitHub\VS_Test_Project\ApplicationTest\obj\Debug\ApplicationTest.pdb
