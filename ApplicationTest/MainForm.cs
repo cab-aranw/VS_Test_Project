@@ -16,5 +16,16 @@ namespace ApplicationTest
         {
             InitializeComponent();
         }
+
+        private void buttonOpen2ndForm_Click(object sender, EventArgs e)
+        {
+            SecondForm oSF = new SecondForm();
+            oSF.ShowDialog();
+        }
+
+        private void buttonShowMessage_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello");
+        }
     }
 }
